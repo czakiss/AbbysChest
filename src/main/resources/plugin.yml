@@ -1,0 +1,14 @@
+name: AbyssChestItem
+version: ${project.version}
+main: com.czakiss.abysschestitem.AbyssChestItem
+api-version: 1.16
+prefix: AbyssChest
+authors: [ Czakiss ]
+description: This plugin collect droped items and after while time appear them in void chest
+website: artsit.pl
+commands:
+  void:
+    aliases: [pustka]
+    description: This command open virtual void ;3
+    usage: /<command>
+    permission: abbychest.void
