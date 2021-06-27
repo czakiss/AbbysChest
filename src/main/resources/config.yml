@@ -1,0 +1,16 @@
+time_cooldown: 120
+time_active_chest: 30
+blacklist:
+  - cobblestone
+  - stone
+  - dirt
+  - grass
+  - gravel
+message_clear: '&6&l[&r&7Abbys&cChest&6&l] &r&7Przedmioty zostaly wrzucone do prozni &a/void'
+message_seconds: '&6&l[&r&7Abbys&cChest&6&l] &r&7Czyszczenie itemow ze swiata za &c[SECONDS] &7sekund'
+message_minutes: '&6&l[&r&7Abbys&cChest&6&l] &r&7Czyszczenie itemow ze swiata za &c[MINUTES] &7minut'
+message_chest_locked_seconds: '&6&l[&r&7Abbys&cChest&6&l] &r&7Skrzynia zamknieta, odczekaj &c[SECONDS] &7sekund'
+message_chest_locked_minutes: '&6&l[&r&7Abbys&cChest&6&l] &r&7Skrzynia zamknieta, odczekaj &c[MINUTES] &7minut'
+message_chest_locked: '&6&l[&r&7Abbys&cChest&6&l] &r&7Skrzynia zostala zamknieta, nastepne otwarcie za &c[MINUTES] &7minut'
+chest_title: '&7Pustka'
+
