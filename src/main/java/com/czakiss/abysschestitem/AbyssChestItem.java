@@ -19,7 +19,7 @@ public final class AbyssChestItem extends JavaPlugin {
         new GuiVoid(this);
         new CleanWorlds(this);
 
-        this.getCommand("void").setExecutor(new Void(this));
+//        this.getCommand("void").setExecutor(new Void(this));
 
         timer = new Timer(this);
 

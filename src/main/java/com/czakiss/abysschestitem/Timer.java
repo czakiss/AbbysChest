@@ -70,7 +70,7 @@ public class Timer {
                     ));
                 }
             }
-        }.runTaskTimerAsynchronously(plugin, TICKS, TICKS);
+        }.runTaskTimer(plugin, TICKS, TICKS);
     }
 
     public void stop() {
